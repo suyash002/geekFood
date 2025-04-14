@@ -1,5 +1,5 @@
 import React from 'react'
-import Quote from '../pages/Quote'
+import Quote from '../pages/quote'
 import quoteData from "../JSON/quoteData.json";
 const QuoteParent = () => {
   return (

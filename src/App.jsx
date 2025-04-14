@@ -1,24 +1,11 @@
 import 'flowbite';
-import Navbar from './components/navbar'
-import Footer from './components/footer';
-import Card from './components/card';
-import MiddleCont from './components/middleCont';
-import HeroSec from './components/heroSec';
+// import Home from './pages/Home';
 
 function App() {
 
   return (
     <>
-   {/* Navbar */}
-      <Navbar />
-      <HeroSec />
-       {/* Card */}
-       <MiddleCont />
-       <div className="min-h-screen mt-6">
-       <Card />
-       </div>
-    {/* Footer */}
-      <Footer />
+  //  <Home />
     </>
   )
 }

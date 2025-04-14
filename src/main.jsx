@@ -9,7 +9,7 @@ import Contact from './pages/Contact';
 import './index.css';
 import Home from './pages/Home';
 import Restaurants from './pages/Restaurants';
-import QuoteParent from './ParentComponent/QuoteParent';
+import QuoteParent from './ParentComponent/quoteParent';
 
 const router = createBrowserRouter([
   {
